@@ -25,5 +25,6 @@ A passionate Data Analyst who thrives on turning complex data into compelling st
 
 ## 🌐 Lets Connect:
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20" style="border: 2px solid #0077B5; border-radius: 5px; vertical-align: middle"/>](https://www.linkedin.com/in/brandon-incremona-26231126a/) **[LinkedIn](https://www.linkedin.com/in/brandon-incremona-26231126a/)**
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-incremona-26231126a/)
+
 
